@@ -20,7 +20,7 @@ The database contains the following tables: `albums`, `artists`, `customers`, `e
 | `query6.sql` | 15 pts | Artists who performed MPEG tracks in "Brazilian Music" or "Grunge" playlists |
 | `query7.sql` | 20 pts | Count of artists who published at least 10 MPEG tracks |
 | `query8.sql` | 25 pts | Playlists longer than 2 hours with total length in hours |
-| `query9.sql` | 25 pts | Creative query: Top 3 best-selling tracks per genre with revenue percentage (window function) |
+| `query9.sql` | 25 pts | Creative query: Builds a quarterly sales rep leaderboard using two CTEs and three window functions |
 
 ## Usage
 
